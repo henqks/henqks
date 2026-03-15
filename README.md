@@ -1,32 +1,33 @@
 <div align="center">
-  <h1>Hey, eu sou o Henrique 👋</h1>
-  <p><strong>Software Developer | Backend Specialist | Systems Architect</strong></p>
+  <h1>Henrique</h1>
+  <p><strong>Software Engineer | Backend Specialist | Infrastructure & Scalability</strong></p>
 
   <p>
-    <a href="https://github.com/henqks">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <a href="https://discord.com/users/henriquehenqks">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
     </a>
-    <a href="mailto:seu-email@exemplo.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <a href="https://instagram.com/12migueeel">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
-    <img src="https://img.shields.io/badge/Brazil-009739?style=for-the-badge&logo=google-maps&logoColor=white">
+    <a href="https://tiktok.com/@12migueeel">
+      <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+    </a>
   </p>
 </div>
 
 ---
 
-### 🚀 Sobre Mim
+### 🏛️ Arquitetura & Expertise
 
-Desenvolvedor focado em construir o "motor" das aplicações. Especialista em criar sistemas escaláveis, seguros e de alta performance. Tenho sólida experiência com infraestrutura, automação e gerenciamento de ambientes Linux.
+Desenvolvedor focado na construção de sistemas robustos e de alta disponibilidade. Especialista em **Java** e ecossistema **Backend**, com forte domínio em administração de servidores **Linux** e orquestração de ambientes **VPS**.
 
-* 🔭 **Atualmente:** Focado no desenvolvimento de microserviços e arquitetura orientada a eventos.
-* ⚙️ **Expertise:** Java, Gerenciamento de Bancos de Dados (SQL) e Administração de Servidores (VPS/Linux).
-* 🌱 **Evoluindo:** Aprofundando em Design Patterns, Clean Architecture e Kubernetes.
-* 🎯 **Objetivo:** Criar soluções que resolvam problemas reais com código limpo e eficiente.
+- 🛠️ **Foco Principal:** Desenvolvimento de APIs escaláveis e microserviços.
+- ⚙️ **Infraestrutura:** Experiência em gerenciamento de bancos de dados (MariaDB/MySQL) e automação de servidores.
+- 🔍 **Qualidade:** Êxito em troubleshooting técnico e otimização de performance de sistemas complexos.
 
 ---
 
-### 🛠️ Stack Tecnológica
+### 💻 Stack Tecnológica
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,linux,docker,git,github,idea,vscode&theme=dark" />
@@ -34,35 +35,38 @@ Desenvolvedor focado em construir o "motor" das aplicações. Especialista em cr
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 Performance & Atividade
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henqks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henqks&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-### 📈 Contribuições & Atividade
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=henqks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="150" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henqks&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=henqks&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </div>
 
-<br/>
+---
+
+### 🐍 GitHub Contribution Streak
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=henqks&theme=tokyonight&hide_border=true" />
 </div>
 
----
-
-### 🐍 Workflow de Contribuições
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/henqks/henqks/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <br />
+  <img src="https://raw.githubusercontent.com/henqks/henqks/output/github-contribution-grid-snake.svg" alt="Snake" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>Construído com ☕ e persistência por <strong>Henrique</strong>.</sub>
+  <sub>Desenvolvendo o amanhã, um commit por vez.</sub>
 </div>
